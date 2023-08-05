@@ -30,6 +30,8 @@ type command : **java -jar target/spring-boot-maven.jar**
 
 ![image](https://github.com/sidsravan/java-springboot_rest_api_crud_mysql/assets/39290179/24908199-e53c-4295-a94b-cbdf20d619c5)
 
+**Testing through browser**
+http://localhost:8080/course/1
 
 # Build and Test
 
