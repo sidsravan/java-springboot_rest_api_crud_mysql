@@ -17,9 +17,10 @@ it will generates the package / build artifact (jar, war, ear)
 
 for run the appllication we need to run the jar file
 
-type command : **java -jar target/springboot_rest_mysql_app-0.0.1-SNAPSHOT.jar**
+type command : **java -jar target/spring-boot-maven.jar**
 
-![image](https://github.com/sidsravan/java-springboot_rest_api_crud_mysql/assets/39290179/b45ca596-bf30-4f9a-9d95-bc51d22974fb)
+![image](https://github.com/sidsravan/java-springboot_rest_api_crud_mysql/assets/39290179/a4c28875-c4d2-40a4-9e96-a13c66e2682e)
+
 
 **Mysql DB Connection**
 
