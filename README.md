@@ -21,10 +21,11 @@ type command : **java -jar target/springboot_rest_mysql_app-0.0.1-SNAPSHOT.jar**
 
 ![image](https://github.com/sidsravan/java-springboot_rest_api_crud_mysql/assets/39290179/b45ca596-bf30-4f9a-9d95-bc51d22974fb)
 
-Mysql DB Connection
+**Mysql DB Connection**
+
 ![image](https://github.com/sidsravan/java-springboot_rest_api_crud_mysql/assets/39290179/525592ae-108b-4fc0-90c6-532ed98561a2)
 
-Testing through postman
+**Testing through postman**
 
 ![image](https://github.com/sidsravan/java-springboot_rest_api_crud_mysql/assets/39290179/24908199-e53c-4295-a94b-cbdf20d619c5)
 
