@@ -33,6 +33,9 @@ type command : **java -jar target/spring-boot-maven.jar**
 **Testing through browser**
 http://localhost:8080/course/1
 
+![image](https://github.com/sidsravan/java-springboot_rest_api_crud_mysql/assets/39290179/1098c9b4-74ba-4f40-97eb-6d4c8e2125ae)
+
+
 # Build and Test
 
 **Docker build and push to acr task**
