@@ -7,11 +7,11 @@ Deploy the sample Java springboot with mysql application to azure kubernates ser
 3. need to install java , maven and mysql
 
 # Build and Test on local machine
-    * Open the command promt on root directory
-    * type command : **mvn clean package**
-    * it will generates the package / build artifact (jar, war, ear)
+     Open the command promt on root directory
+     type command : **mvn clean package**
+     it will generates the package / build artifact (jar, war, ear)
     ![image](https://github.com/sidsravan/java-springboot_rest_api_crud_mysql/assets/39290179/538a3e24-21e0-419f-8b40-cefc437f7c0a)
-    * for run the appllication we need to run the jar file
+     for run the appllication we need to run the jar file
      type command : **java -jar target/springboot_rest_mysql_app-0.0.1-SNAPSHOT.jar**
 ![image](https://github.com/sidsravan/java-springboot_rest_api_crud_mysql/assets/39290179/b45ca596-bf30-4f9a-9d95-bc51d22974fb)
 
