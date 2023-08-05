@@ -5,7 +5,7 @@ Deploy the sample Java springboot with mysql application to azure kubernates ser
 1. Create Azure kubernate service
 2. Azure container Register
 3. need to install java , maven and mysql
-
+for java, maven and mysql istall guild check this url : https://sravan-sid.blogspot.com/2022/11/java-maven.html 
 # Build and Test on local machine
 Open the command promt on root directory
 
@@ -20,6 +20,13 @@ for run the appllication we need to run the jar file
 type command : **java -jar target/springboot_rest_mysql_app-0.0.1-SNAPSHOT.jar**
 
 ![image](https://github.com/sidsravan/java-springboot_rest_api_crud_mysql/assets/39290179/b45ca596-bf30-4f9a-9d95-bc51d22974fb)
+
+Mysql DB Connection
+![image](https://github.com/sidsravan/java-springboot_rest_api_crud_mysql/assets/39290179/525592ae-108b-4fc0-90c6-532ed98561a2)
+
+Testing through postman
+
+![image](https://github.com/sidsravan/java-springboot_rest_api_crud_mysql/assets/39290179/24908199-e53c-4295-a94b-cbdf20d619c5)
 
 
 # Build and Test
