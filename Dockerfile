@@ -1,7 +1,7 @@
 # Use an official OpenJDK runtime as the base image
 #FROM adoptopenjdk/openjdk11:alpine-jre
 
-FROM openjdk
+FROM adoptopenjdk/openjdk11
 
 # Set the working directory
 WORKDIR /app
