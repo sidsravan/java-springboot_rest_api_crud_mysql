@@ -3,6 +3,8 @@ Deploy the sample Java springboot with mysql application to azure kubernates ser
 
 giri for testing
 
+sravn testing
+
 # Getting Started
 1. Create Azure kubernate service
 2. Azure container Register
